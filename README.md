@@ -2,7 +2,8 @@
 
 **`Desenvolvedor java`**
 
-Me chamo Edwin Neftaly, nasci na República Dominicana e fui criado no Brasil. Concluí o ensino médio no IFPR, onde também fiz o curso técnico em Informática. Atualmente, estou cursando Engenharia de Software na PUCPR. Desde cedo, desenvolvi uma paixão por tecnologia
+Me chamo Edwin Neftaly, nasci na República Dominicana e fui criado no Brasil. Concluí o ensino médio no IFPR, onde também fiz o curso técnico em Informática. Atualmente, estou cursando Engenharia de Software na PUCPR. Desde cedo, desenvolvi uma paixão por tecnologias. 
+Idiomos: Espanhol fluente, e Inglês avançado.
 
 
 ---
