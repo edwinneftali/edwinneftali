@@ -24,8 +24,8 @@ Idiomos: Espanhol fluente, e Inglês avançado.
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="dart"
+    title="dart" 
     width="30px" 
     style="padding-right: 10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
@@ -83,16 +83,6 @@ Idiomos: Espanhol fluente, e Inglês avançado.
 
 <p>
  
-
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
-    />
-
 
   
             
