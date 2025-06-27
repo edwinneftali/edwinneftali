@@ -87,6 +87,6 @@ Idiomos: Espanhol fluente, e Inglês avançado.
   <img height="200rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinneftali&theme=midnight-purple&langs_count=5&hide_progress=false" />  
   
   <p align="center">
-    <img width="700" src="https://github.com/edwinneftali/edwinneftali/blob/main/github-snake.svg" />
+    <img width="700" src="https://github.com/edwinneftali/edwinneftali/blob/main/github-" />
   </p>
 </div>
