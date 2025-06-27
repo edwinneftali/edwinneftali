@@ -82,11 +82,10 @@ Idiomos: Espanhol fluente, e Inglês avançado.
 <h3>📊 Estatísticas</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=edwinneftali&layout=donut&theme=midnight-purple" />
-  
-  <img height="200rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinneftali&theme=midnight-purple&langs_count=5&hide_progress=false" />  
-  
-  <p align="center">
-    <img width="700" src="https://github.com/edwinneftali/edwinneftali/blob/main/github-" />
-  </p>
+    <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=edwinneftali&layout=donut&theme=midnight-purple" />
+    <img height="200rem" width="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinneftali&layoutt&theme=midnight-purple" />  
+<p align="center">
+ <img width="700" src="https://github.com/MarioJunior01/edwinneftali/blob/main/github-snake.svg"/>
+</p>
 </div>
+
