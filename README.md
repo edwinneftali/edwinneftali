@@ -83,9 +83,9 @@ Idiomos: Espanhol fluente, e Inglês avançado.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=edwinneftali&layout=donut&theme=midnight-purple" />
-    <img height="200rem" width="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioJunior01&layoutt&theme=midnight-purple" />  
+    <img height="200rem" width="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinneftali&layoutt&theme=midnight-purple" />  
 <p align="center">
- <img width="700" src="https://github.com/MarioJunior01/MarioJunior01/blob/main/github-snake.svg" alt="snake"/>
+ <img width="700" src="https://github.com/edwinneftali/edwinneftali/blob/main/github-snake.svg" alt="snake"/>
 </p>
 </div>
 
